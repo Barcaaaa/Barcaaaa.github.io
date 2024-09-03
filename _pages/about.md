@@ -10,7 +10,7 @@ redirect_from:
 
 🌈 I am a Ph.D. student at the School of Informatics, at Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
 
-🏳️‍🌈 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, point cloud semantic segmentation), **Machine Learning** (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on 3D domain adaptation and 3D domain generalization. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
+🏳️‍🌈 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, image semantic segmentation, point cloud semantic segmentation), **Machine Learning** (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on 3D domain adaptation and 3D domain generalization. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
 _______________________________________________________________________________________________________
 <h3>
@@ -43,8 +43,8 @@ ________________________________________________________________________________
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
             <tr>
-                    <td class="noBorder" width="40%">
-                        <img width="320" src="../images/CLIP2UDA.png" border="0">
+                    <td class="noBorder" width="40%" align="center">
+                        <img width="400" src="../images/CLIP2UDA.png" border="0">
                     </td>
                     <td>
                       <b>CLIP2UDA: Making Frozen CLIP Reward Unsupervised Domain Adaptation in 3D Semantic Segmentation </b>
@@ -57,9 +57,11 @@ ________________________________________________________________________________
                     </td>
             </tr>
             <tr>
-                    <td class="noBorder" width="40%">
-                        <img width="320" src="../images/CLIP-FSAC.png" border="0">
-                            </td>
+                    <td class="noBorder" width="40%" align="center">
+                      <div style="text-align: center;">
+                        <img width="240" src="../images/CLIP-FSAC.png" border="0">
+                      </div>
+                    </td>
                     <td>
                       <b>CLIP-FSAC: Boosting CLIP for Few-Shot Anomaly Classification with Synthetic Anomalies </b>
                       <br>
@@ -71,9 +73,9 @@ ________________________________________________________________________________
                     </td>
             </tr>
             <tr>
-                    <td class="noBorder" width="40%">
-                        <img width="320" src="../images/PPL.png" border="0">
-                            </td>
+                    <td class="noBorder" width="40%" align="center">
+                        <img width="240" src="../images/PPL.png" border="0">
+                    </td>
                     <td>
                       <b>Perturbed Progressive Learning for Semisupervised Defect Segmentation </b>
                       <br>
@@ -85,9 +87,9 @@ ________________________________________________________________________________
                     </td>
             </tr>
             <tr>
-                    <td class="noBorder" width="40%">
-                        <img width="320" src="../images/BFtD.png" border="0">
-                            </td>
+                    <td class="noBorder" width="40%" align="center">
+                        <img width="400" src="../images/BFtD.png" border="0">
+                    </td>
                     <td>
                       <b>Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation </b>
                       <br>
@@ -124,16 +126,16 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
  <td width="30%">
- <img width="60" src="../images/ball.jpg" border="0">
+ <img width="60" src="../images/football.jpg" border="0">
 </td>
    <td width="30%">
- <img width="60" src="../images/reading.jpg" border="0">
+ <img width="60" src="../images/game.jpg" border="0">
 </td>
    <td width="30%">
- <img width="60" src="../images/riding.jpg" border="0">
+ <img width="60" src="../images/music.jpg" border="0">
 </td>
    <td width="30%">
- <img width="60" src="../images/tubu.jpg" border="0">
+ <img width="60" src="../images/travel.jpg" border="0">
 </td>
 </div>
 
