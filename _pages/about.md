@@ -105,7 +105,7 @@ ________________________________________________________________________________
 </font>
 
 
-[Please visit [my google scholar profile](https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN) for the full publication list.]
+[Please visit [my google scholar profile](https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN) for the full publication list and [my github homepage](https://github.com/Barcaaaa) for recent works.]
 _______________________________________________________________________________________________________
 
 <!--
