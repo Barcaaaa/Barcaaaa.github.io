@@ -18,11 +18,12 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jul 2024]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by ACMMM 2024!</li>
-  <li> <strong>[Apr 2024]</strong> One paper about few-shot anomaly classification is accepted by IJCAI 2024!</li>
-  <li> <strong>[Oct 2023]</strong> One paper about semi-supervised defect segmentation is accepted by TNNLS!</li>
-  <li> <strong>[Aug 2023]</strong> One paper about Point Cloud Shape Analysis is accepted by PRCV 2023!</li>
-  <li> <strong>[Jul 2023]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by ACMMM 2023!</li>
+  <li> <strong>[Sep 2024]</strong> One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
+  <li> <strong>[Jul 2024]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
+  <li> <strong>[Apr 2024]</strong> One paper about few-shot anomaly classification is accepted by <strong>IJCAI 2024</strong>!</li>
+  <li> <strong>[Oct 2023]</strong> One paper about semi-supervised defect segmentation is accepted by <strong>TNNLS</strong>!</li>
+  <li> <strong>[Aug 2023]</strong> One paper about point cloud shape analysis is accepted by <strong>PRCV 2023</strong>!</li>
+  <li> <strong>[Jul 2023]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2023</strong>!</li>
   </ul>
 </div>
 
