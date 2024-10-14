@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Oct 2024]</strong> One paper about generalized zero-shot learning is accepted by <strong>TCSVT</strong>!</li>
   <li> <strong>[Sep 2024]</strong> One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
   <li> <strong>[Jul 2024]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
   <li> <strong>[Apr 2024]</strong> One paper about few-shot anomaly classification is accepted by <strong>IJCAI 2024</strong>!</li>
