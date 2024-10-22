@@ -46,6 +46,34 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
+                        <img width="400" src="../images/UniDSeg.png" border="0">
+                    </td>
+                    <td>
+                      <b>UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior </b>
+                      <br>
+                      <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Xiaotong Luo, Yuan Xie, Yanyun Qu. 
+                      <br>
+                      <em>Annual Conference on Neural Information Processing Systems (NeurIPS 2024) </em>
+                      <br>
+                      [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
+                        <img width="400" src="../images/RE-GZSL.jpg" border="0">
+                    </td>
+                    <td>
+                      <b>RE-GZSL: Relation Extrapolation for Generalized Zero-Shot Learning </b>
+                      <br>
+                      <strong>Yao Wu</strong>, Xia Kong, Yuan Xie, Yanyun Qu. 
+                      <br>
+                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024) </em>
+                      <br>
+                      [<a href="">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
                         <img width="400" src="../images/CLIP2UDA.png" border="0">
                     </td>
                     <td>
