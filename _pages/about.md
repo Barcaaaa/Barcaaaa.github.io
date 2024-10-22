@@ -46,7 +46,7 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
-                        <img width="400" src="../images/UniDSeg.png" border="0">
+                        <img width="300" src="../images/UniDSeg.jpg" border="0">
                     </td>
                     <td>
                       <b>UniDSeg: Unified Cross-Domain 3D Semantic Segmentation via Visual Foundation Models Prior </b>
@@ -60,7 +60,7 @@ ________________________________________________________________________________
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
-                        <img width="400" src="../images/RE-GZSL.jpg" border="0">
+                        <img width="350" src="../images/RE-GZSL.jpg" border="0">
                     </td>
                     <td>
                       <b>RE-GZSL: Relation Extrapolation for Generalized Zero-Shot Learning </b>
@@ -89,7 +89,7 @@ ________________________________________________________________________________
             <tr>
                     <td class="noBorder" width="40%" align="center">
                       <div style="text-align: center;">
-                        <img width="240" src="../images/CLIP-FSAC.png" border="0">
+                        <img width="300" src="../images/CLIP-FSAC.png" border="0">
                       </div>
                     </td>
                     <td>
