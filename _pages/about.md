@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Dec 2024]</strong> One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
   <li> <strong>[Oct 2024]</strong> One paper about generalized zero-shot learning is accepted by <strong>TCSVT</strong>!</li>
   <li> <strong>[Sep 2024]</strong> One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
   <li> <strong>[Jul 2024]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
@@ -46,6 +47,20 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
+                        <img width="300" src="../images/ActiveSFDA.jpg" border="0">
+                    </td>
+                    <td>
+                      <b>Omni-Query Active Learning for Source-Free Domain Adaptive Cross-Modality 3D Semantic Segmentation </b>
+                      <br>
+                      Jianxiang Xie, <strong>Yao Wu</strong>1️⃣, Yachao Zhang, Zhongchao Shi, Jianping Fan, Yuan Xie, Yanyun Qu. 
+                      <br>
+                      <em>Association for the Advancement of Artificial Intelligence (AAAI 2025) </em>
+                      <br>
+                      [<a href="">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/UniDSeg.jpg" border="0">
                     </td>
                     <td>
@@ -55,7 +70,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Annual Conference on Neural Information Processing Systems (NeurIPS 2024) </em>
                       <br>
-                      [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="">Code</a>]
+                      [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="https://github.com/Barcaaaa/UniDSeg">Code</a>]
                     </td>
             </tr>
             <tr>
