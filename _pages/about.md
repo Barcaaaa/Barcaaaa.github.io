@@ -47,7 +47,7 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
-                        <img width="300" src="../images/ActiveSFDA.jpg" border="0">
+                        <img width="300" src="../images/ActiveSFDA.png" border="0">
                     </td>
                     <td>
                       <b>Omni-Query Active Learning for Source-Free Domain Adaptive Cross-Modality 3D Semantic Segmentation </b>
