@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Mar 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
   <li> <strong>[Feb 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT</strong>!</li>
   <li> <strong>[Dec 2024]</strong> One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
   <li> <strong>[Oct 2024]</strong> One paper about generalized zero-shot learning is accepted by <strong>TCSVT</strong>!</li>
@@ -85,7 +86,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024) </em>
                       <br>
-                      [<a href="">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/document/10734386">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
                     </td>
             </tr>
             <tr>
@@ -115,7 +116,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Joint Conference on Artificial Intelligence (IJCAI 2024) </em>
                       <br>
-                      [<a href="https://www.ijcai.org/proceedings/2024/0203.pdf">Paper</a>][<a href="">Code</a>]
+                      [<a href="https://www.ijcai.org/proceedings/2024/0203.pdf">Paper</a>][<a href="https://github.com/Jay-zzcoder/clip-fsac-pp">Code</a>]
                     </td>
             </tr>
             <tr>
