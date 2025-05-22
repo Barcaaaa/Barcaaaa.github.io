@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[May 2025]</strong> One paper about unsupervised anomaly localization is accepted by <strong>TNNLS</strong>!</li>
   <li> <strong>[Mar 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
   <li> <strong>[Feb 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT</strong>!</li>
   <li> <strong>[Dec 2024]</strong> One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
