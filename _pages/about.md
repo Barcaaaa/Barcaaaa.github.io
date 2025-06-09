@@ -10,7 +10,7 @@ redirect_from:
 
 🌈 I am a Ph.D. student at the School of Informatics, at Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
 
-🏳️‍🌈 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, image semantic segmentation, point cloud semantic segmentation), **Machine Learning** (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on 3D domain adaptation and 3D domain generalization. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
+🏳️‍🌈 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation and 3D domain generalization**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@stu.xmu.edu.cn)
 
 _______________________________________________________________________________________________________
 <h3>
@@ -18,17 +18,16 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[May 2025]</strong> One paper about unsupervised anomaly localization is accepted by <strong>TNNLS</strong>!</li>
-  <li> <strong>[Mar 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
-  <li> <strong>[Feb 2025]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT</strong>!</li>
-  <li> <strong>[Dec 2024]</strong> One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
-  <li> <strong>[Oct 2024]</strong> One paper about generalized zero-shot learning is accepted by <strong>TCSVT</strong>!</li>
-  <li> <strong>[Sep 2024]</strong> One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
-  <li> <strong>[Jul 2024]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
-  <li> <strong>[Apr 2024]</strong> One paper about few-shot anomaly classification is accepted by <strong>IJCAI 2024</strong>!</li>
-  <li> <strong>[Oct 2023]</strong> One paper about semi-supervised defect segmentation is accepted by <strong>TNNLS</strong>!</li>
-  <li> <strong>[Aug 2023]</strong> One paper about point cloud shape analysis is accepted by <strong>PRCV 2023</strong>!</li>
-  <li> <strong>[Jul 2023]</strong> One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2023</strong>!</li>
+  <li> <strong>[May 2025]</strong> 🎉One paper about unsupervised anomaly localization is accepted by <strong>TNNLS (IF: 10.4)</strong>!</li>
+  <li> <strong>[Mar 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
+  <li> <strong>[Feb 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT (IF: 8.3)</strong>!</li>
+  <li> <strong>[Dec 2024]</strong> 🎉One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
+  <li> <strong>[Oct 2024]</strong> 🎉One paper about generalized zero-shot learning is accepted by <strong>TCSVT (IF: 8.3)</strong>!</li>
+  <li> <strong>[Sep 2024]</strong> 🎉One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
+  <li> <strong>[Jul 2024]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
+  <li> <strong>[Apr 2024]</strong> 🎉One paper about few-shot anomaly classification is accepted by <strong>IJCAI 2024</strong>!</li>
+  <li> <strong>[Oct 2023]</strong> 🎉One paper about semi-supervised defect segmentation is accepted by <strong>TNNLS (IF: 10.4)</strong>!</li>
+  <li> <strong>[Jul 2023]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2023</strong>!</li>
   </ul>
 </div>
 
@@ -50,6 +49,20 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
+                        <img width="300" src="../images/FtDPlus.png" border="0">
+                    </td>
+                    <td>
+                      <b>Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation </b>
+                      <br>
+                      <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Yuan Xie, Yanyun Qu. 
+                      <br>
+                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025) </em>
+                      <br>
+                      [<a href="https://ieeexplore.ieee.org/document/10904908">Paper</a>][<a href="https://github.com/Barcaaaa/FtD-PlusPlus">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/ActiveSFDA.png" border="0">
                     </td>
                     <td>
@@ -59,7 +72,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Association for the Advancement of Artificial Intelligence (AAAI 2025) </em>
                       <br>
-                      [<a href="">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
+                      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32941">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
                     </td>
             </tr>
             <tr>
@@ -113,7 +126,7 @@ ________________________________________________________________________________
                     <td>
                       <b>CLIP-FSAC: Boosting CLIP for Few-Shot Anomaly Classification with Synthetic Anomalies </b>
                       <br>
-                      Zuo Zuo, <strong>Yao Wu</strong>, Baoqiang Li, Jiahao Dong, You Zhou, Lei Zhou, Yanyun Qu, Zongze Wu. 
+                      Zuo Zuo, <strong>Yao Wu</strong>1️⃣, Baoqiang Li, Jiahao Dong, You Zhou, Lei Zhou, Yanyun Qu, Zongze Wu. 
                       <br>
                       <em>International Joint Conference on Artificial Intelligence (IJCAI 2024) </em>
                       <br>
@@ -157,18 +170,17 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________
 
-<!--
 <h3>
   <a name="services"></a> 📠Academic Services
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: CVPR, ICML, NeurIPS, AAAI, ICCV, ACMMM, ICLR </li>
-  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence, IEEE Transactions on Image Processing</li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, AAAI, ACMMM, ICME </li>
+  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </li>
   </ul>
 </div>
+
 _______________________________________________________________________________________________________
--->
 
 <h3>
   <a name="services"></a> ✨Hobby
