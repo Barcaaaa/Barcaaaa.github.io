@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
   <li> <strong>[May 2025]</strong> 🎉One paper about unsupervised anomaly localization is accepted by <strong>TNNLS (IF: 10.4)</strong>!</li>
   <li> <strong>[Mar 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
   <li> <strong>[Feb 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT (IF: 8.3)</strong>!</li>
