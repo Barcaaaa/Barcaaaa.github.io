@@ -190,7 +190,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, AAAI, ACMMM, ICME </li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </li>
   </ul>
 </div>
