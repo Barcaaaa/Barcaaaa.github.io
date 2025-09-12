@@ -50,6 +50,20 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
+                        <img width="300" src="../images/PLATO-TTA.png" border="0">
+                    </td>
+                    <td>
+                      <b>PLATO-TTA: Prototype-Guided Pseudo-Labeling and Adaptive Tuning for Multi-Modal Test-Time Adaptation of 3D Segmentation </b>
+                      <br>
+                      Jianxiang Xie, <strong>Yao Wu</strong>1️⃣, Yachao Zhang, Xiaopei Zhang, Yuan Xie, Yanyun Qu. 
+                      <br>
+                      <em>ACM International Conference on Multimedia (ACMMM 2025) </em>
+                      <br>
+                      [<a href="">Paper</a>][<a href="">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/FtDPlus.png" border="0">
                     </td>
                     <td>
@@ -115,7 +129,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM International Conference on Multimedia (ACMMM 2024) </em>
                       <br>
-                      [<a href="https://openreview.net/forum?id=Ai1ziPxtmr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions)">Paper</a>][<a href="https://github.com/Barcaaaa/CLIP2UDA">Code</a>]
+                      [<a href="https://openreview.net/forum?id=Ai1ziPxtmr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions)">Paper</a>]
                     </td>
             </tr>
             <tr>
