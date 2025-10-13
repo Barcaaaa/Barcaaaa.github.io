@@ -191,7 +191,7 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
-  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) </li>
+  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Computer Vision and Image Understanding (CVIU) </li>
   </ul>
 </div>
 
