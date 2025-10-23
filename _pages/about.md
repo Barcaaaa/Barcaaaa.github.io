@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---
+---
 
 🌈 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
 
