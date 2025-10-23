@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yao Wu"
   avatar           : "profile.jpg"
-  #bio              : "Assistant Professor, Singapore University of Technology and Design"
-  location         : "Ph.D. student of Xiamen University"
+  bio              : "Lecturer, College of Computer and Data Science"
+  location         : "Fuzhou University"
   employer         :
  # pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN"
-  email            : wuyao@std.xmu.edu.cn
+  email            : wuyao@fzu.edu.cn
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
