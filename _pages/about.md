@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --
 
-🌈 I work at the College of Computer and Data Science, Fuzhou University, Fuzhou, Fujian, China, as a lecturer. I received Ph.D. degree in the School of Informatics from Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
+🌈 I work at the College of Computer and Data Science, Fuzhou University, as a lecturer. I received Ph.D. degree in the School of Informatics from Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
 
 🏳️‍🌈 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation and 3D domain generalization**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
