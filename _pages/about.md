@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🌈 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, supervised by Professor Yanyun Qu (曲延云教授). I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang (黄漢邦教授).
+🌈 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
 
-🏳️‍🌈 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation and 3D domain generalization**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn, wuyao@stu.xmu.edu.cn)
+🏳️‍🌈 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
 _______________________________________________________________________________________________________
 <h3>
@@ -57,7 +57,7 @@ ________________________________________________________________________________
                       <br>
                       Jianxiang Xie, <strong>Yao Wu</strong>1️⃣, Yachao Zhang, Xiaopei Zhang, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>ACM International Conference on Multimedia (ACMMM 2025) </em>
+                      <em>ACM International Conference on Multimedia (ACMMM 2025, CCF-A) </em>
                       <br>
                       [<a href="">Paper</a>][<a href="">Code</a>]
                     </td>
@@ -71,7 +71,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025) </em>
+                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025, JCR-Q1, CCF-B) </em>
                       <br>
                       [<a href="https://ieeexplore.ieee.org/document/10904908">Paper</a>][<a href="https://github.com/Barcaaaa/FtD-PlusPlus">Code</a>]
                     </td>
@@ -85,7 +85,7 @@ ________________________________________________________________________________
                       <br>
                       Jianxiang Xie, <strong>Yao Wu</strong>1️⃣, Yachao Zhang, Zhongchao Shi, Jianping Fan, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>Association for the Advancement of Artificial Intelligence (AAAI 2025) </em>
+                      <em>Association for the Advancement of Artificial Intelligence (AAAI 2025, CCF-A) </em>
                       <br>
                       [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32941">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
                     </td>
@@ -99,7 +99,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Xiaotong Luo, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>Annual Conference on Neural Information Processing Systems (NeurIPS 2024) </em>
+                      <em>Annual Conference on Neural Information Processing Systems (NeurIPS 2024, CCF-A) </em>
                       <br>
                       [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="https://github.com/Barcaaaa/UniDSeg">Code</a>]
                     </td>
@@ -113,7 +113,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Xia Kong, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024) </em>
+                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024, JCR-Q1, CCF-B) </em>
                       <br>
                       [<a href="https://ieeexplore.ieee.org/document/10734386">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
                     </td>
@@ -127,7 +127,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>ACM International Conference on Multimedia (ACMMM 2024) </em>
+                      <em>ACM International Conference on Multimedia (ACMMM 2024, CCF-A) </em>
                       <br>
                       [<a href="https://openreview.net/forum?id=Ai1ziPxtmr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions)">Paper</a>]
                     </td>
@@ -143,7 +143,7 @@ ________________________________________________________________________________
                       <br>
                       Zuo Zuo, <strong>Yao Wu</strong>1️⃣, Baoqiang Li, Jiahao Dong, You Zhou, Lei Zhou, Yanyun Qu, Zongze Wu. 
                       <br>
-                      <em>International Joint Conference on Artificial Intelligence (IJCAI 2024) </em>
+                      <em>International Joint Conference on Artificial Intelligence (IJCAI 2024, CCF-A) </em>
                       <br>
                       [<a href="https://www.ijcai.org/proceedings/2024/0203.pdf">Paper</a>][<a href="https://github.com/Jay-zzcoder/clip-fsac-pp">Code</a>]
                     </td>
@@ -157,7 +157,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Yuan Xie, Zongze Wu, Yanyun Qu. 
                       <br>
-                      <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2023) </em>
+                      <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2023, JCR-Q1, CCF-B) </em>
                       <br>
                       [<a href="https://doi.org/10.1109/TNNLS.2023.3324188">Paper</a>][<a href="https://github.com/Barcaaaa/Perturbed-Progressive-Learning">Code</a>]
                     </td>
@@ -171,7 +171,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Jianping Fan, Zhongchao Shi, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>ACM International Conference on Multimedia (ACMMM 2023) </em>
+                      <em>ACM International Conference on Multimedia (ACMMM 2023, CCF-A, Oral) </em>
                       <br>
                       [<a href="https://dl.acm.org/doi/10.1145/3581783.3612013">Paper</a>][<a href="https://github.com/Barcaaaa/BFtD-xMUDA">Code</a>]
                     </td>
