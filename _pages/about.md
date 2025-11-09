@@ -63,6 +63,10 @@ ________________________________________________________________________________
                       [<a href="">Paper</a>][<a href="">Code</a>]
                     </td>
             </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
+            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/PLATO-TTA.png" border="0">
@@ -76,6 +80,10 @@ ________________________________________________________________________________
                       <br>
                       [<a href="">Paper</a>][<a href="">Code</a>]
                     </td>
+            </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -91,6 +99,10 @@ ________________________________________________________________________________
                       [<a href="https://ieeexplore.ieee.org/document/10904908">Paper</a>][<a href="https://github.com/Barcaaaa/FtD-PlusPlus">Code</a>]
                     </td>
             </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
+            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/ActiveSFDA.png" border="0">
@@ -104,6 +116,10 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32941">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
                     </td>
+            </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -119,6 +135,10 @@ ________________________________________________________________________________
                       [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="https://github.com/Barcaaaa/UniDSeg">Code</a>]
                     </td>
             </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
+            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="350" src="../images/RE-GZSL.jpg" border="0">
@@ -133,6 +153,10 @@ ________________________________________________________________________________
                       [<a href="https://ieeexplore.ieee.org/document/10734386">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
                     </td>
             </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
+            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="400" src="../images/CLIP2UDA.png" border="0">
@@ -146,6 +170,10 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://openreview.net/forum?id=Ai1ziPxtmr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions)">Paper</a>]
                     </td>
+            </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -163,6 +191,10 @@ ________________________________________________________________________________
                       [<a href="https://www.ijcai.org/proceedings/2024/0203.pdf">Paper</a>][<a href="https://github.com/Jay-zzcoder/clip-fsac-pp">Code</a>]
                     </td>
             </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
+            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="240" src="../images/PPL.png" border="0">
@@ -176,6 +208,10 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://doi.org/10.1109/TNNLS.2023.3324188">Paper</a>][<a href="https://github.com/Barcaaaa/Perturbed-Progressive-Learning">Code</a>]
                     </td>
+            </tr>
+            <!-- 添加空行（30px高度） -->
+            <tr>
+                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
