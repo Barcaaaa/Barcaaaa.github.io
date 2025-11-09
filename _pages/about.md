@@ -51,6 +51,20 @@ ________________________________________________________________________________
            <tbody>
             <tr>
                     <td class="noBorder" width="40%" align="center">
+                        <img width="300" src="../images/BeyondSparse.png" border="0">
+                    </td>
+                    <td>
+                      <b>BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather </b>
+                      <br>
+                      <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Fangyong Wang, Xiaopei Zhang, Yanyun Qu. 
+                      <br>
+                      <em>Annual AAAI Conference on Artificial Intelligence (AAAI 2026, CCF-A, Oral) </em>
+                      <br>
+                      [<a href="">Paper</a>][<a href="">Code</a>]
+                    </td>
+            </tr>
+            <tr>
+                    <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/PLATO-TTA.png" border="0">
                     </td>
                     <td>
@@ -191,8 +205,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
-  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Computer Vision and Image Understanding (CVIU) </li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, ECCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
+  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), NeuroComputing, Computer Vision and Image Understanding (CVIU) </li>
   </ul>
 </div>
 
