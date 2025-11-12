@@ -241,7 +241,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS, ICCV, ECCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), NeuroComputing, Computer Vision and Image Understanding (CVIU) </li>
   </ul>
 </div>
