@@ -22,9 +22,9 @@ ________________________________________________________________________________
   <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
   <li> <strong>[May 2025]</strong> 🎉One paper about unsupervised anomaly localization is accepted by <strong>TNNLS (IF: 10.4)</strong>!</li>
   <li> <strong>[Mar 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
-  <li> <strong>[Feb 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT (IF: 8.3)</strong>!</li>
+  <li> <strong>[Feb 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT (IF: 11.1)</strong>!</li>
   <li> <strong>[Dec 2024]</strong> 🎉One paper about active source-free domain adaptation is accepted by <strong>AAAI 2025</strong>!</li>
-  <li> <strong>[Oct 2024]</strong> 🎉One paper about generalized zero-shot learning is accepted by <strong>TCSVT (IF: 8.3)</strong>!</li>
+  <li> <strong>[Oct 2024]</strong> 🎉One paper about generalized zero-shot learning is accepted by <strong>TCSVT (IF: 11.1)</strong>!</li>
   <li> <strong>[Sep 2024]</strong> 🎉One paper about unified cross-domain 3D semantic segmentation is accepted by <strong>NeurIPS 2024</strong>!</li>
   <li> <strong>[Jul 2024]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ACMMM 2024</strong>!</li>
   <li> <strong>[Apr 2024]</strong> 🎉One paper about few-shot anomaly classification is accepted by <strong>IJCAI 2024</strong>!</li>
