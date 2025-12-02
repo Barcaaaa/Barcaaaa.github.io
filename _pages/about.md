@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🌈 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
+🌏 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
 
-🏳️‍🌈 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
+📲 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
+
+😆 I plan to admit 3 master students. 
 
 _______________________________________________________________________________________________________
 <h3>
@@ -20,6 +22,7 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>[Nov 2025]</strong> 🎉Two paper about cross-domain 3D semantic segmentation is accepted by <strong>AAAI 2026</strong>!</li>
   <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
+  <li> <strong>[May 2025]</strong> 🎉I successfully defended my PhD thesis!
   <li> <strong>[May 2025]</strong> 🎉One paper about unsupervised anomaly localization is accepted by <strong>TNNLS (IF: 10.4)</strong>!</li>
   <li> <strong>[Mar 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>ICME 2025</strong>!</li>
   <li> <strong>[Feb 2025]</strong> 🎉One paper about multi-modal unsupervised domain adaptation is accepted by <strong>TCSVT (IF: 11.1)</strong>!</li>
@@ -60,12 +63,8 @@ ________________________________________________________________________________
                       <br>
                       <em>Annual AAAI Conference on Artificial Intelligence (AAAI 2026, CCF-A, Oral) </em>
                       <br>
-                      [<a href="">Paper</a>][<a href="">Code</a>]
+                      [<a href="">Paper</a>][<a href="https://github.com/Barcaaaa/BeyondSparse">Code is coming soon!</a>]
                     </td>
-            </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -78,12 +77,8 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM International Conference on Multimedia (ACMMM 2025, CCF-A) </em>
                       <br>
-                      [<a href="">Paper</a>][<a href="">Code</a>]
+                      [<a href="https://dl.acm.org/doi/10.1145/3746027.3755793">Paper</a>][<a href="">Code is coming soon!</a>]
                     </td>
-            </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -99,10 +94,6 @@ ________________________________________________________________________________
                       [<a href="https://ieeexplore.ieee.org/document/10904908">Paper</a>][<a href="https://github.com/Barcaaaa/FtD-PlusPlus">Code</a>]
                     </td>
             </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
-            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="300" src="../images/ActiveSFDA.png" border="0">
@@ -116,10 +107,6 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32941">Paper</a>][<a href="https://github.com/Kylin-XJX/ActiveSFDA">Code</a>]
                     </td>
-            </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -135,10 +122,6 @@ ________________________________________________________________________________
                       [<a href="https://neurips.cc/virtual/2024/poster/94354">Paper</a>][<a href="https://github.com/Barcaaaa/UniDSeg">Code</a>]
                     </td>
             </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
-            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="350" src="../images/RE-GZSL.jpg" border="0">
@@ -153,10 +136,6 @@ ________________________________________________________________________________
                       [<a href="https://ieeexplore.ieee.org/document/10734386">Paper</a>][<a href="https://github.com/Barcaaaa/RE-GZSL">Code</a>]
                     </td>
             </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
-            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="400" src="../images/CLIP2UDA.png" border="0">
@@ -170,10 +149,6 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://openreview.net/forum?id=Ai1ziPxtmr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions)">Paper</a>]
                     </td>
-            </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
@@ -191,10 +166,6 @@ ________________________________________________________________________________
                       [<a href="https://www.ijcai.org/proceedings/2024/0203.pdf">Paper</a>][<a href="https://github.com/Jay-zzcoder/clip-fsac-pp">Code</a>]
                     </td>
             </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
-            </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
                         <img width="240" src="../images/PPL.png" border="0">
@@ -208,10 +179,6 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://doi.org/10.1109/TNNLS.2023.3324188">Paper</a>][<a href="https://github.com/Barcaaaa/Perturbed-Progressive-Learning">Code</a>]
                     </td>
-            </tr>
-            <!-- 添加空行（30px高度） -->
-            <tr>
-                <td colspan="2" style="height: 30px;"></td>
             </tr>
             <tr>
                     <td class="noBorder" width="40%" align="center">
