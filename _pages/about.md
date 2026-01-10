@@ -12,7 +12,7 @@ redirect_from:
 
 📲 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
-😆 <font color=red>I plan to admit 3 master students</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
+😆 <font color=red>I plan to admit 2 master students</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
 
 _______________________________________________________________________________________________________
 <h3>
@@ -179,7 +179,7 @@ ________________________________________________________________________________
                       <h3>Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation </h3>
                       <strong>Yao Wu</strong>, Mingwei Xing, Yachao Zhang, Jianping Fan, Zhongchao Shi, Yuan Xie, Yanyun Qu. 
                       <br>
-                      <em>ACM International Conference on Multimedia (<strong>ACM MM 2023</strong>, CCF-A, Oral presentation) </em>
+                      <em>ACM International Conference on Multimedia (<strong>ACM MM 2023</strong>, CCF-A, <font color=red>Oral presentation</font>) </em>
                       <br>
                       [<a href="https://dl.acm.org/doi/10.1145/3581783.3612013">Paper</a>][<a href="https://github.com/Barcaaaa/BFtD-xMUDA">Code</a>]
                     </td>
@@ -198,8 +198,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME, ‌MMAsia </li>
-  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Expert Systems With Applications, NeuroComputing, Computer Vision and Image Understanding </li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME </li>
+  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ISPRS Journal of Photogrammetry and Remote Sensing, Pattern Recognition (PR), Knowledge-Based Systems (KBS), Expert Systems With Applications (ESWA), NeuroComputing </li>
   </ul>
 </div>
 
