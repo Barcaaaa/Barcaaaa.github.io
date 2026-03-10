@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🌏 I work as a lecturer at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
+🌏 I work as an associate researcher at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
 
 📲 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
@@ -199,7 +199,7 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>Conference Reviewer</strong>: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACMMM, ICME </li>
-  <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ISPRS Journal of Photogrammetry and Remote Sensing, Pattern Recognition (PR), Knowledge-Based Systems (KBS), Expert Systems With Applications (ESWA), NeuroComputing </li>
+  <li> <strong>Journal Reviewer</strong>: IEEE TIP, IEEE TNNLS, IEEE TCSVT, ISPRS, PR, KBS, ESWA </li>
   </ul>
 </div>
 
