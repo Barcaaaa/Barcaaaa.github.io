@@ -12,7 +12,7 @@ redirect_from:
 
 📲 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
-😆 <font color=red>I plan to admit 2 master students</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
+😆 <font color=red>I plan to admit 3 master students</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
 
 _______________________________________________________________________________________________________
 <h3>
@@ -20,6 +20,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[May 2026]</strong> 🎉I have been awarded the Natural Science Foundation of Fujian Province</li>
   <li> <strong>[Nov 2025]</strong> 🎉Two paper about cross-domain 3D semantic segmentation is accepted by <strong>AAAI 2026</strong>!</li>
   <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
   <li> <strong>[May 2025]</strong> 🎉I successfully defended my PhD thesis!</li>
