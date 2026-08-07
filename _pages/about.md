@@ -20,6 +20,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Aug 2026]</strong> 🎉One paper about 3D self-supervised Learning is accepted by <strong>TITS (IF: 8.9)</strong>!</li>
   <li> <strong>[May 2026]</strong> 🎉I have been awarded the Natural Science Foundation of Fujian Province</li>
   <li> <strong>[Nov 2025]</strong> 🎉Two paper about cross-domain 3D semantic segmentation is accepted by <strong>AAAI 2026</strong>!</li>
   <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
