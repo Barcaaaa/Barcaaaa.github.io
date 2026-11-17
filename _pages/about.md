@@ -10,9 +10,9 @@ redirect_from:
 
 🌏 I work as an associate researcher at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
 
-📲 My research interests include, but are not limited to: Computer Vision (3D computer vision, image and point cloud semantic segmentation), Machine Learning (weakly-supervised learning, semi-supervised learning, unsupervised learning, transfer learning). Recently, I have focused on **3D domain adaptation, 3D domain generalization, and anomaly detection**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
+📲 My research interests include, but are not limited to: Computer Vision, 3D scene understanding, self-supervised learning, and transfer learning. Recently, I have focused on **Open-Vocabulary (1) Multi-modal Domain Generalization and (2) 3D Occupancy Prediction, and (3) 3D CBCT Analysis**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
-😆 <font color=red>I plan to admit 3 master students</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
+😆 <font color=red>I plan to admit 4 master's students in 2027 (remaining 3)</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
 
 _______________________________________________________________________________________________________
 <h3>
