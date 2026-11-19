@@ -10,7 +10,7 @@ redirect_from:
 
 🌏 I work as an associate researcher at the College of Computer and Data Science, Fuzhou University. I received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2025, supervised by Professor Yanyun Qu. I received the M.S. degree in the Department of Mechanical Engineering from Taiwan University, China, in 2019, supervised by Professor Han-Pang Huang.
 
-📲 My research interests include, but are not limited to: Computer Vision, 3D scene understanding, self-supervised learning, and transfer learning. Recently, I have focused on **Open-Vocabulary (1) Multi-modal Domain Generalization and (2) 3D Occupancy Prediction, and (3) 3D CBCT Analysis**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
+📲 My research interests include, but are not limited to: Computer Vision, 3D Scene Understanding, Self-Supervised Learning, and Continual Learning. Recently, I have focused on **Open-Vocabulary (1) Multi-modal Domain Generalization and (2) 3D Occupancy Prediction, and (3) 3D CBCT Analysis**. If you are interested in my research or have any use cases that you want to share, feel free to contact me! (📧: wuyao@fzu.edu.cn)
 
 😆 <font color=red>I plan to admit 4 master's students in 2027 (remaining 3)</font>. I will collaborate with you on exciting research! If you want to join my team, feel free to contact me!
 
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>[Aug 2026]</strong> 🎉I have been awarded the National Natural Science Foundation of China!</li>
-  <li> <strong>[Aug 2026]</strong> 🎉One paper about 3D self-supervised Learning is accepted by <strong>TITS (IF: 8.9)</strong>!</li>
+  <li> <strong>[Aug 2026]</strong> 🎉One paper about 3D self-supervised Learning is accepted by <strong>TITS (IF: 9.1)</strong>!</li>
   <li> <strong>[May 2026]</strong> 🎉I have been awarded the Fujian Provincial Natural Science Foundation of China!</li>
   <li> <strong>[Nov 2025]</strong> 🎉Two paper about cross-domain 3D semantic segmentation is accepted by <strong>AAAI 2026</strong>!</li>
   <li> <strong>[Jul 2025]</strong> 🎉One paper about multi-modal testing-time adaptation is accepted by <strong>ACMMM 2025</strong>!</li>
@@ -65,7 +65,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Annual AAAI Conference on Artificial Intelligence (<strong>AAAI 2026</strong>, CCF-A, <font color=red>Oral presentation</font>) </em>
                       <br>
-                      [<a href="">Paper</a>][<a href="https://github.com/Barcaaaa/BeyondSparse">Code is coming soon!</a>]
+                      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/38058">Paper</a>][<a href="https://github.com/Barcaaaa/BeyondSparse">Code</a>]
                     </td>
             </tr>
             <tr>
@@ -78,7 +78,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM International Conference on Multimedia (<strong>ACM MM 2025</strong>, CCF-A) </em>
                       <br>
-                      [<a href="https://dl.acm.org/doi/10.1145/3746027.3755793">Paper</a>][<a href="">Code is coming soon!</a>]
+                      [<a href="https://dl.acm.org/doi/10.1145/3746027.3755793">Paper</a>][<a href="https://github.com/Barcaaaa/PLATO-TTA">Code</a>]
                     </td>
             </tr>
             <tr>
